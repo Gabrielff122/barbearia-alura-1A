@@ -3,7 +3,7 @@ body{
 #banner
     width:100%;
 {
-    principal {
+    principal{
 background:#cccccc;
 padding 30px;
 }
@@ -29,8 +29,8 @@ beneficios{
 background: #FFFFFF;
 padding:20 px
 }
+vl{
 display:inline-block;
-vertical-align:
 vertical-align:top;
 width:20 %;
 margin-right:15 %;
